@@ -1,4 +1,4 @@
-food = calories {'fruit salad':117,
+food calories = {'fruit salad':117,
                  'baked tomatoes on toast':211,
                  'banana and apricot bagels':244,
                  'banana porridge with raspberry mash':214,
@@ -28,3 +28,4 @@ food = calories {'fruit salad':117,
                 'cheese and tomato grilled fish':172,
                 'cheesy leeks and ham bake':236,
                 'chicken and banana korma':552}
+               
